@@ -1,0 +1,8 @@
+[package]
+name = "wordstats"
+version = "0.1.0"
+authors = ["Eric Régnier <utopman@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+diacritics = "0.1.1"
